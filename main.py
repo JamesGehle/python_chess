@@ -1,15 +1,3 @@
-"""
---------------- DISCLAIMER ---------------
-THIS PROJECT WAS BUILT IN THE JuiceMind IDE
-THE GRAPHICS DO NOT FORMAT CORRECTLY IN CODEHS
-I DO NOT KNOW WHY
-FOR PROPER FORMATTING, USE THE FOLLOWING LINK
-https://play.juicemind.com/sandbox/vdvzU40KcCSZ58zRiHkq
-Link is also provided in the email
-
-"""
-
-
 import pygame
 import sys
 import time
